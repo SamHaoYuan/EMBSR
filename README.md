@@ -1,7 +1,11 @@
 # EMBSR
 To be continued
 
-We will upload all the code (including data preprocess, baselines, etc.) after cleaned
+## Dataset
+- JD: https://tinyurl.com/ybo8z4yz.
+- Trivago: https://recsys.trivago.cloud/challenge/dataset/
 
+## Code
 - Model/EMBSR is the implementation of the proposed model EMBSR
 - RunEMBSR is the code to train the Model
+- Preprocess_trivago is the example for the preprocessing of trivago dataset
